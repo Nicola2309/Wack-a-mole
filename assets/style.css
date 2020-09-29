@@ -1,0 +1,20 @@
+.square{
+    width: 200px;
+    height: 200px;
+    border-style: solid;
+    border-color: purple;
+}
+
+.grid{
+    display: flex;
+    flex-flow: row wrap; /*cio' che imposta la griglia da sinistra a destra e dice ai div di attaccarsi uno sull'altro*/
+    justify-content: center;
+    align-content: center;
+    width: 618px;
+    height: 618px;
+}
+
+.mole{
+    background-image: url('');
+    background-size: cover;
+}
