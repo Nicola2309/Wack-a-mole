@@ -15,6 +15,6 @@
 }
 
 .mole{
-    background-image: url(assets/face.jpg);
+    background-image: url('assets/face.jpg');
     background-size: cover;
 }
